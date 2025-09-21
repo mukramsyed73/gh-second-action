@@ -22,5 +22,5 @@ deploy:
        uses: actions/checkout@v3
      - name: Install NodeJS
        uses: actions/setup-node@v3
-    - name: Deploy Code
-      run: echo " This is not actual deployment... Created for practice Purpose"   
+     - name: Deploy Code
+       run: echo " This is not actual deployment... Created for practice Purpose"   
